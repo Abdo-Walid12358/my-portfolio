@@ -95,7 +95,7 @@ export default function AboutSection() {
                 delay: 0.4,
               }}
             >
-              Whether it's a landing page, a full-stack app, or a UI component.
+              {"Whether it's a landing page, a full-stack app, or a UI component."}
             </motion.p>
             <motion.p
               className="py-4 text-xl font-normal text-neutral-700 dark:text-neutral-300 text-left"
