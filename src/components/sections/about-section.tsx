@@ -68,7 +68,7 @@ export default function AboutSection() {
                 delay: 0.3,
               }}
             >
-              I’m a passionate 
+              {`I’m a passionate `}
                 <PointerHighlight
                     rectangleClassName="bg-blue-100 dark:bg-blue-900 border-blue-300 dark:border-blue-700 leading-loose"
                     pointerClassName="text-blue-500 h-3 w-3"
