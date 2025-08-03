@@ -84,6 +84,10 @@ const backendSkills: SkillCardProps[] = [
 ];
 const otherSkills: SkillCardProps[] = [
   {
+    src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg",
+    title: "Express.js",
+  },
+  {
     src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
     title: "Git",
   },
