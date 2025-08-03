@@ -73,7 +73,7 @@ export default function ProjectModal({
                 >
                     <h2 className="font-bold text-lg">{selected.title}</h2>
                     <p className="mt-2 text-sm">{selected.description}</p>
-                    <div className="flex justify-end gap-2 mt-3">
+                    <div className="flex flex-wrap justify-end gap-2 mt-3">
                         {selected.badges.map((badge, index) => {
                             return <Badge key={index}>{badge}</Badge>;
                         })}
