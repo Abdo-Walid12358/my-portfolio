@@ -54,6 +54,10 @@ const backendSkills: SkillCardProps[] = [
     title: "Express.js",
   },
   {
+    src: "https://www.svgrepo.com/show/354210/prisma.svg",
+    title: "Prisma",
+  },
+  {
     src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg",
     title: "PHP",
   },
