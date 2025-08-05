@@ -136,3 +136,9 @@ html {
     @apply bg-background text-foreground;
   }
 }
+
+
+.img-border {
+  filter: drop-shadow(0 0 1px rgba(255, 255, 255, 0.7))
+  drop-shadow(0px 0px 1px rgba(255, 255, 255, 0.7));
+}
