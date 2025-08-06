@@ -20,7 +20,7 @@ const navigationLinks = [
   { href: "#overview", label: "Overview", active: true },
   { href: "#about", label: "About Me" },
   { href: "#skills", label: "My Skills" },
-  { href: "#project", label: "My Projects" },
+  { href: "#projects", label: "My Projects" },
   { href: "#contact", label: "Contact Me" },
 ];
 
