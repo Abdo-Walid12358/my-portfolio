@@ -11,7 +11,7 @@ export default function ProjectsSection() {
     const [selected, setSelected] = useState<ProjectCardProps | null>(null);
 
     return (
-        <main id="project" className="bg-slate-50 dark:bg-black">
+        <main id="projects" className="bg-slate-50 dark:bg-black">
             <section className="relative w-screen overflow-hidden flex flex-col justify-center items-center px-4 md:px-6 max-w-[65rem] xl:max-w-[80rem] mx-auto py-20">
                 <motion.h1
                     className="max-w-4xl text-center text-5xl font-bold text-slate-700 md:text-5xl lg:text-7xl dark:text-slate-300"
