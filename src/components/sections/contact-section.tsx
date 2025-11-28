@@ -13,7 +13,7 @@ const socialLinks: SocialIcon[] = [
     color: "zinc",
   },
   {
-    href: "https://wa.me/+201017794896",
+    href: "https://wa.me/+201035701385",
     icon: FaWhatsapp,
     color: "green",
   },
